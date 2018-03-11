@@ -32,7 +32,7 @@ function increaseRankBy(n){
 }
 
 function deepestChild(){
-<<<<<<< HEAD
+
 
 //doesn't iterate over elements because you don't need to?
 //just find the last div and return it?
@@ -71,7 +71,7 @@ function deepestChild(){
     }
   }
 */
-=======
+
   //code below works, but is it cheating because it doesn't iterate over elements?
   //const boo= document.querySelector('#grand-node div div div div')
   //return boo
@@ -93,5 +93,5 @@ function deepestChild(){
       return "boo!"
     }
 
->>>>>>> b995bf298e3520e85110be017f05058ad3c4adb2
+
 }
