@@ -88,7 +88,7 @@ function deepestChild(){
 */
 
     if(i===lis.length-1){
-      return "boo!"
+      return lis[i]//"boo!"
     }
   }
 }
