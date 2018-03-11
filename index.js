@@ -40,8 +40,6 @@ function deepestChild(){
   const lis = document.getElementById('grand-node').querySelectorAll('div')
   return lis[lis.length-1]
 
-/*
-
 //code below works, but is it cheating because it doesn't iterate over elements?
 //It just accesses the last div because I counted how many div's are under the grand-node
 //Doesnt' work if there are a different number of divs
